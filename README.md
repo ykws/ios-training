@@ -1,4 +1,4 @@
-# 株式会社ゆめみ iOS研修
+# ゆめみ iOS研修
 
 [![Test](https://github.com/yumemi-inc/ios-training/actions/workflows/test.yml/badge.svg)](https://github.com/yumemi-inc/ios-training/actions/workflows/test.yml)
 
