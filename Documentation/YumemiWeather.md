@@ -13,11 +13,11 @@ SwiftPackageManagerに対応しています。
 
 ## API
 
-- [YumemiWeather](https://yumemi-inc.github.io/ios-training/documentation/yumemiweather/yumemiweather)
+- [YumemiWeather](https://ymm-oss.github.io/ios-training/documentation/yumemiweather/yumemiweather)
 
 ## Error type
 
-- [YumemiWeatherError](https://yumemi-inc.github.io/ios-training/documentation/yumemiweather/yumemiweathererror)
+- [YumemiWeatherError](https://ymm-oss.github.io/ios-training/documentation/yumemiweather/yumemiweathererror)
 
 ## 附録
 [関連ワード・動画索引（熊谷さんのやさしい Swift 勉強会）](https://yumemi.notion.site/f887eb4563a9434ab27c521fee9fbace)
